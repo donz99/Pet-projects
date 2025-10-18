@@ -20,5 +20,6 @@ public class Solution {
                 min2=x;
         }
         System.out.println(min2);
+
     }
 }
